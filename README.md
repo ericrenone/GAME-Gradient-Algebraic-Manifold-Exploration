@@ -1,11 +1,7 @@
 # GAME — Gradient Algebraic Manifold Exploration
-## A Post-Standard First-Principles Framework for Structural Learning Dynamics
 
 > *Every learning trajectory is a word. Every word is a rational. Every rational is a path through hyperbolic space — and every path obeys the same four laws.*
 
----
-
-## Abstract
 
 GAME is a unified first-principles framework that reconstructs six independent mathematical theories — Symmetric Flow Systems, Kruskal-Quasi-Order Mechanics, Spectral-Arithmetic Learning Theory, Farey Learning Dynamics, the Sturm-Liouville Neural Framework, and Rational Tree Learning Geometry — into a single coherent architecture. All six frameworks independently converged on one threshold:
 
